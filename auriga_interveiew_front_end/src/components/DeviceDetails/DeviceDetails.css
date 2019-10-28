@@ -1,0 +1,19 @@
+table {
+    
+    width: 100%;
+    border: 5;
+  }
+  
+  th, td {
+    text-align: middle;
+    padding: 8px;
+  }
+  th{
+    background-color: rgb(13, 70, 15);
+    color: white;
+  }
+  td{
+    background-color: rgb(51, 172, 82);
+    color: rgb(12, 5, 5);
+  }
+  

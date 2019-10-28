@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AurigaInterviewBackEnd
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: natia
+Implementation-Vendor-Id: com.nati.aurigainterviewbackend
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AurigaInterviewBackEnd
+Created-By: Maven Integration for Eclipse
+

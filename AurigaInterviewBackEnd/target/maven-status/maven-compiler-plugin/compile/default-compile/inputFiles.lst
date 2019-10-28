@@ -1,0 +1,15 @@
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\beans\Tenant.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\Main.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\utils\RequestUtils.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\beans\IpAddress.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\applicationconfiguration\ApplicationConfiguration.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\dao\DeviceDbDao.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\enums\ErrorType.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\beans\Device.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\logic\DeviceLogic.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\api\DeviceApi.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\beans\DeviceDetails.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\dao\DeviceDao.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\exceptions\CustomErrorResponse.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\exceptions\ApplicationException.java
+C:\Users\natia\eclipse-workspace\AurigaInterviewBackEnd2\src\main\java\com\nati\aurigainterviewsbackend\exceptions\CustomGlobalExceptionHandler.java
