@@ -53,18 +53,10 @@ public class Main {
 		 System.out.println("Device Details By Interview Requirements "+api.getDeviceDetailsByInterviewRequirements("2b727991-5ddb-4a42-82eb-13bbb2876a28"));
 		 System.out.println();
 		 
-		 IpAddress[] s = new IpAddress[]{new IpAddress("","",""), new IpAddress("","","")};
-		 String[] d = new String[] {"",""};
-		 
-		 int[] myIntArray = {1, 2, 3};
-		 int[] myIntArray2 = new int[]{1, 2, 3};
-		 
 		
 		 //System.out.println("Bean names: " + Arrays.toString(context.getBeanNamesForType(AurigaTestDeviceDbDao.class)));
 		
 		 //DeviceDao dao = (DeviceDao)context.getBean("deviceDbDao");
-		 //DeviceLogic logic = (DeviceLogic)context.getBean("deviceLogic");
-		 //DeviceLogic logic = new DeviceLogic();
 		
 		 Tenant tenant = new Tenant("asds", "asds", "asd");
 		 IpAddress ipAddress1 = new IpAddress("sad1", "sad", "sccs");
@@ -81,12 +73,12 @@ public class Main {
 		 DeviceDetails deviceDetails = new DeviceDetails("asd", ss, "asdsad", tenant, "Dsda", 123, "desasdasd", "dfasds", "asda", "dadsa", "sfsdcz", "sdsaASC", "CASDC", ipAddress, true, "asdasc", "asdas", "asd", "asd", "sda", "caasc", "acsasdx");
 		 Device device = new Device(deviceDetails);
 
- api.createDevice(device);
- System.out.println("create device work");
+                 api.createDevice(device);
+                 System.out.println("create device work");
 		
- System.out.println("into getttt");
-System.out.println(api.getDeviceById("2b727991-5ddb-4a42-82eb-13bbb2876a28"));
-System.out.println("getttt workkk");
+                 System.out.println("into get");
+                 System.out.println(api.getDeviceById("2b727991-5ddb-4a42-82eb-13bbb2876a28"));
+                 System.out.println("get work");
 		
 		 
 	}
