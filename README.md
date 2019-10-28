@@ -20,10 +20,6 @@ The other project in React called 'auriga_interveiew_front_end', This project no
  				  
 Please read my commends - Especially in com.nati.logic.DeviceLogic 
 
-For any questions:
-natielhadad@gmail.com
-07407325685 
-
 
 
 	
