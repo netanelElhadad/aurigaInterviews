@@ -15,8 +15,6 @@ How to run my app:
 Just 'run on server' the Main class in 'AurigaInterviewBackEnd' project,
 Then wrote the command 'npm i' in 'auriga_interveiew_front_end1' project, To install the NodeModules and 				                 'package-lock.json', Then npm 'start'.
 
-The other project in React called 'auriga_interveiew_front_end', This project not connected to the server because it's not finish, But works well and very generic (You will see in the commends there), Just 'command 'npm i', then npm 'start'.
-
  				  
 Please read my commends - Especially in com.nati.logic.DeviceLogic 
 
